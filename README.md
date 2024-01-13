@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Anand</h1>
 <h3 align="center">A passionate Full Stack Web3 Developer from India.</h3>
-<img align="right" alt="coding" width="400" src"![image](https://github.com/IIIT-n-HA/IIIT-n-HA/assets/99332020/e6244d14-8fa2-449d-83e4-07a1b37d3948)
-">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
