@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Anand</h1>
 <h3 align="center">A passionate Full Stack Web3 Developer from India.</h3>
-<img align="right" alt="coding" width="400" src"https://media.licdn.com/dms/image/D4D12AQECuImbX8Qpbw/article-cover_image-shrink_600_2000/0/1656918155885?e=2147483647&v=beta&t=kl_ntop82mf22EJ4Nzg30Evy4kB2n9uXe3Ln0kYVaTM">
+<img align="right" alt="coding" width="400" src"![image](https://github.com/IIIT-n-HA/IIIT-n-HA/assets/99332020/e6244d14-8fa2-449d-83e4-07a1b37d3948)
+">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
