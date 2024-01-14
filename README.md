@@ -1,4 +1,4 @@
-![logo](https://github.com/IIIT-n-HA/IIIT-n-HA/blob/main/s.png)
+![logo](https://github.com/IIIT-n-HA/IIIT-n-HA/blob/main/web3-blockchain.png)
 
 <h1 align="center">Hi 👋, I'm Harsh Anand</h1>
 <h3 align="center">A passionate Full Stack Web3 Developer from India.</h3>
